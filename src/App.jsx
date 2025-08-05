@@ -6,7 +6,9 @@ import Footer from "./components/Footer";
 import ScrollToTop from "./components/ScrollToTop";
 import Home from "./pages/Home";
 import About from "./pages/About";
-
+import InitiativesIndex from "./pages/initiatives/Index";
+import ResearchProjects from "./pages/initiatives/ResearchProjects";
+import BooksArticles from "./pages/publications/BooksArticles";
 import Products from "./pages/Products";
 import FAQ from "./pages/FAQ";
 import Contact from "./pages/Contact";
