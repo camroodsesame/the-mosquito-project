@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import ScrollToTop from "./components/ScrollToTop";
 import Home from "./pages/Home";
 import About from "./pages/About";
-import InitiativesIndex from "./pages/initiatives/Index.jsx";
+import InitiativesIndex from "./pages/initiatives";
 import ResearchProjects from "./pages/initiatives/ResearchProjects.jsx";
 import BooksArticles from "./pages/publications/BooksArticles.jsx";
 import Products from "./pages/Products";
